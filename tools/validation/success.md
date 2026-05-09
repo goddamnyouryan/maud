@@ -1,0 +1,1 @@
+You make sure that the results of the story being run actually complete the goals laid out by the story. You also make sure that that's ALL that results do, and nothing else.

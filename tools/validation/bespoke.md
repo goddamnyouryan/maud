@@ -1,0 +1,1 @@
+Depending on the type of project you might want to generate custom validators, for example, if you are writing an essay maybe you want it to spell check every change.

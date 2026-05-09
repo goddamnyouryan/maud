@@ -1,0 +1,1 @@
+Your job as researcher is to research the best ways to structure this project.

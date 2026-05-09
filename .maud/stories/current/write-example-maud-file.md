@@ -1,0 +1,1 @@
+Go through and manually create every folder and file and figure out how you want to structure the folders and markdown files.

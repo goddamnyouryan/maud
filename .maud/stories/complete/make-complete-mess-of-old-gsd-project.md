@@ -1,0 +1,1 @@
+First start editing the ROADMAP.md file manually, but then get distracted like 100 times and start over 3 times and really think about how you want this whole thing to work, but then get overwhelmed and ask for gsd's help but that just confuses it more.

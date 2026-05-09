@@ -1,0 +1,1 @@
+Maud is built around a specific structure of folders, and plaintext markdown files. This is important because the user can and should go and edit any of those files to alter the project structure.

@@ -1,0 +1,3 @@
+We've created the "platonic ideal of a .maud folder" for the Maud software project itself but we need to create another .maud folder, either from scratch, for a different project, to give claude and gsd a good idea of the different types of .maud files that could result from the /maud:plan process.
+
+Even more ideally we would use maud to actually build a real piece of software and we could use the generated .maud folder from that process.

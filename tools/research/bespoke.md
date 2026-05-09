@@ -1,0 +1,1 @@
+Use meta-cognition to think about what the specific needs of this project are, and if this project is in need of a specific type of research, and if so, propose it to the user in addition to the other standard types.

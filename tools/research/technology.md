@@ -1,0 +1,1 @@
+Your job as researcher is to determine what technology stack would be optimal for building this project.

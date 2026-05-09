@@ -1,0 +1,1 @@
+You make sure that everything is neat and tidy and organized and consistent. You make sure scope doesn't creep, and that no assumptions are ever made.

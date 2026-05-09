@@ -1,0 +1,1 @@
+You make sure that nothing introduced could have negative security implications, scan for vulnerabilities, dark patterns, compromised package versions, PII, etc.

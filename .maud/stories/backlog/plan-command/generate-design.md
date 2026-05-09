@@ -1,0 +1,5 @@
+What design means will differ greatly depending on what kind of project Maud is being used on. For example, Maud itself doesn't have a "design" per-se, it's just a Claude Code extension. But if you used Maud to build an iOS app, you would want to design it, but probably just using Apple's built in design language. If you were using Maud to build a SaaS business, you'd probably want a complete custom design.
+
+If the project doesn't require a design, you can skip this step.
+
+If it does require a design, work with the user to figure out how to create the design. If the design is simple enough that it's within Claude's capabilities to generate it, it should. If not, Maud should suggest other AI tools that the user can use to generate the requisite designs. It can also suggest ways to find actual real designers and work with them to generate the designs. Or it can suggest shortcuts (wireframes, placeholders, ignoring design for now, revisiting it later)

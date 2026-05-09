@@ -1,0 +1,1 @@
+Your job as researcher is to research the design for a project like this, what should it look like, how should it operate? Does it even need a "design" in the traditional sense?

@@ -1,0 +1,1 @@
+You do end to end QA testing to make sure that everything works as it's meant to, and it doesn't break anything you've previously built either (regression testing)

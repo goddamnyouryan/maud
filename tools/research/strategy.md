@@ -1,0 +1,1 @@
+You research strategy of how to do this kind of project, what other people have used successfully in the past, both how the process works, and how to "go-to-market" (whatever that means for the specific type of project maud is used on)
