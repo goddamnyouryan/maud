@@ -8,7 +8,9 @@ Each phase corresponds 1:1 to a backlog story (or sub-task file) in `.maud/stori
 
 ---
 
-## Phase 1: Fix `.maud/` Markdown Links
+## Phase 1: Fix `.maud/` Markdown Links ✓
+
+**Status:** Complete (2026-05-11)
 
 **Goal:** All markdown links in `.maud/` resolve correctly and follow a consistent style/convention.
 
@@ -22,7 +24,7 @@ Each phase corresponds 1:1 to a backlog story (or sub-task file) in `.maud/stori
 3. Broken links found in the existing `.maud/` (e.g., `(/complete/scrap-gsd.md]` in `stories/README.md`) are repaired
 
 **Plans:** 1 plan
-- [ ] 01-01-PLAN.md — Rename `.maud/**/index.md` to `README.md`, rewrite links to standard relative paths, fix typo, cascade prose updates into `.planning/{ROADMAP,REQUIREMENTS,PROJECT}.md`
+- [x] 01-01-PLAN.md — Rename `.maud/**/index.md` to `README.md`, rewrite links to standard relative paths, fix typo, cascade prose updates into `.planning/{ROADMAP,REQUIREMENTS,PROJECT}.md`
 
 ---
 
@@ -245,4 +247,4 @@ Each phase corresponds 1:1 to a backlog story (or sub-task file) in `.maud/stori
 
 ---
 
-*Last updated: 2026-05-10 after initial roadmap creation*
+*Last updated: 2026-05-11 after Phase 1 completion*

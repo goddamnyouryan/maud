@@ -9,7 +9,7 @@ Each requirement maps 1:1 to a backlog story (or sub-task) in `.maud/stories/`.
 
 ### Setup
 
-- [ ] **SETUP-01**: Markdown links across all `.maud/` files are consistent and resolve correctly
+- [x] **SETUP-01**: Markdown links across all `.maud/` files are consistent and resolve correctly
 - [ ] **SETUP-02**: Bare-bones Claude Code plugin scaffold exists and `/maud:*` commands are discoverable in Claude Code
 
 ### Discussion
@@ -62,7 +62,7 @@ Deferred to future milestones.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SETUP-01 | Phase 1 | Pending |
+| SETUP-01 | Phase 1 | Complete |
 | DISC-01 | Phase 2 | Pending |
 | SETUP-02 | Phase 3 | Pending |
 | PLAN-01 | Phase 4 | Pending |
@@ -85,4 +85,4 @@ Deferred to future milestones.
 
 ---
 *Requirements defined: 2026-05-10*
-*Last updated: 2026-05-10 after initial definition*
+*Last updated: 2026-05-11 after Phase 1 (SETUP-01) completion*
