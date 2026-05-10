@@ -13,13 +13,13 @@ See: `.planning/PROJECT.md` (updated 2026-05-10)
 
 ## Current Phase
 
-**Phase 1: Fix `.maud/` Markdown Links** — Pending plan
+**Phase 1: Fix `.maud/` Markdown Links** — Complete (plan 01-01 done)
 
 ## Phase Progress
 
 | # | Phase | Status |
 |---|-------|--------|
-| 1 | Fix `.maud/` markdown links | ○ Pending |
+| 1 | Fix `.maud/` markdown links | ✓ Complete |
 | 2 | Discuss Maud with GSD | ○ Pending |
 | 3 | Setup Claude Code Plugin | ○ Pending |
 | 4 | `/maud:plan` — Generate Project File | ○ Pending |
@@ -35,7 +35,7 @@ See: `.planning/PROJECT.md` (updated 2026-05-10)
 | 14 | `/maud:build` — Present for Approval | ○ Pending |
 | 15 | `/maud:build` — Merge & Launch | ○ Pending |
 
-**Progress:** ░░░░░░░░░░ 0% (0/15 phases complete)
+**Progress:** █░░░░░░░░░ 7% (1/15 phases complete)
 
 ## Workflow Config
 
@@ -49,10 +49,24 @@ See: `.planning/config.json`
 - Verifier: on
 - Model profile: balanced
 
+## Accumulated Decisions
+
+| Decision | Phase | Rationale |
+|----------|-------|-----------|
+| README.md convention for .maud/ directories | 01-01 | GitHub auto-renders README.md for folder browsing; enables (folder/) links without a static-site pipeline |
+| Standard relative paths for .maud/ links | 01-01 | Leading-slash paths don't resolve in any standard renderer; relative paths work everywhere |
+| Full cascade of rename to .planning/ docs | 01-01 | Keeps ROADMAP/REQUIREMENTS/PROJECT coherent with actual file tree |
+
+## Session Continuity
+
+**Last session:** 2026-05-10
+**Stopped at:** Completed 01-01-PLAN.md (plan metadata commit pending)
+**Resume file:** None
+
 ## Notes
 
 - Project is greenfield from a code perspective but the `.maud/` reference structure was hand-crafted by the user — treat it as the spec for what the plugin must produce.
 - The user's instruction was explicit: skip questioning, skip research, one phase per backlog story (and per sub-task file). The roadmap above honors that mapping.
 
 ---
-*Last updated: 2026-05-10 after initialization*
+*Last updated: 2026-05-10 after completing plan 01-01 (fix .maud/ markdown links)*
