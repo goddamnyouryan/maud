@@ -1,9 +1,9 @@
 ## Research
 
-- [Competitors](/competitors/)
-- [Architecture](/architecture/)
-- [Technology](/technology/)
-- [Design](/design/)
+- [Competitors](competitors/)
+- [Architecture](architecture/)
+- [Technology](technology/)
+- [Design](design/)
 
 ## The Plan
 
@@ -14,4 +14,4 @@ I manually crafted .maud by hand so that we can then feed my desired result into
 - /maud:plan
 - /maud:build
 
-Basically I am going to have GSD do all of the tasks in the backlog found in: .maud/planning/index.md
+Basically I am going to have GSD do all of the tasks in the backlog found in: .maud/planning/README.md

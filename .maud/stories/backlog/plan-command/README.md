@@ -2,7 +2,7 @@ What actually runs when the user types the slash command /maud:plan
 
 This is the first step of the maud process. Planning is actually the bulk of the "work" that Maud does so this is rather extensive and has many sub tasks:
 
-- [ ] [Generate .maud/index.md](generate-project-file.md)
+- [ ] [Generate .maud/README.md](generate-project-file.md)
 - [ ] [Determine how this projects planning should be structured](generate-planning-structure.md)
 - [ ] [Run research agents to populate .maud/planning structure with their results](research-agents.md)
 - [ ] [Synthesize results of research and the rest of the project files to generate "the plan"](generate-the-plan.md)
