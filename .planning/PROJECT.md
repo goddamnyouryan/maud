@@ -19,10 +19,10 @@ Take a project from idea to launch using local, human-readable markdown that the
 - [ ] Fix all markdown links in `.maud/` so they're consistent
 - [ ] GSD-style critique of the Maud approach (unvarnished thoughts on structure, gaps, missing tools)
 - [ ] Bare-bones Claude Code plugin scaffolding so `/maud:*` commands run
-- [ ] `/maud:plan` — generate `.maud/index.md` (the project file) via deep questioning
+- [ ] `/maud:plan` — generate `.maud/README.md` (the project file) via deep questioning
 - [ ] `/maud:plan` — determine project-specific `.maud/planning/` structure (meta-cognition step)
 - [ ] `/maud:plan` — run research agents to populate `.maud/planning/` subfolders
-- [ ] `/maud:plan` — synthesize research into "the plan" at `.maud/planning/index.md`
+- [ ] `/maud:plan` — synthesize research into "the plan" at `.maud/planning/README.md`
 - [ ] `/maud:plan` — (optional) generate design (skip / Claude-generated / external tooling / human designer)
 - [ ] `/maud:plan` — generate `.maud/stories/` and populate the backlog from the plan
 - [ ] `/maud:build` — pop the top story off the backlog
@@ -43,7 +43,7 @@ Take a project from idea to launch using local, human-readable markdown that the
 
 - Bootstrapping with GSD as a "flywheel": GSD builds the first Maud plugin, then Maud rebuilds itself, then Maud builds an unrelated project (TBD).
 - The `.maud/` directory in this repo was hand-crafted by Ryan as the canonical example/spec. Treat it as ground truth for what `/maud:plan` should produce.
-- The backlog at `.maud/stories/index.md` is the source of work. Each backlog story (and each sub-task file inside `plan-command/` and `build-command/`) maps to a GSD phase.
+- The backlog at `.maud/stories/README.md` is the source of work. Each backlog story (and each sub-task file inside `plan-command/` and `build-command/`) maps to a GSD phase.
 - Old GSD scraps were already removed — this is a fresh start.
 - Claude Code plugin docs: https://code.claude.com/docs/en/plugins
 

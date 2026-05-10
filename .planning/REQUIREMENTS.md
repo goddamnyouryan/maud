@@ -18,12 +18,12 @@ Each requirement maps 1:1 to a backlog story (or sub-task) in `.maud/stories/`.
 
 ### /maud:plan Command
 
-- [ ] **PLAN-01**: `/maud:plan` deeply questions the user about their project and writes `.maud/index.md` (the project file)
+- [ ] **PLAN-01**: `/maud:plan` deeply questions the user about their project and writes `.maud/README.md` (the project file)
 - [ ] **PLAN-02**: `/maud:plan` performs meta-cognition to determine the project-specific `.maud/planning/` folder structure and creates the empty subfolders
 - [ ] **PLAN-03**: `/maud:plan` spawns research agents — one per planning subfolder — that populate each subfolder with relevant research
-- [ ] **PLAN-04**: `/maud:plan` synthesizes `.maud/index.md` plus all planning research into "the plan" at `.maud/planning/index.md`, ruthlessly avoiding scope creep
+- [ ] **PLAN-04**: `/maud:plan` synthesizes `.maud/README.md` plus all planning research into "the plan" at `.maud/planning/README.md`, ruthlessly avoiding scope creep
 - [ ] **PLAN-05**: `/maud:plan` optionally generates design (offering: skip / Claude-generated / external AI tools / human designer / wireframes) when the project requires it
-- [ ] **PLAN-06**: `/maud:plan` generates `.maud/stories/` (with `index.md`, `backlog/`, `current/`, `complete/`) and populates the backlog with stories derived from the plan, in initial priority order
+- [ ] **PLAN-06**: `/maud:plan` generates `.maud/stories/` (with `README.md`, `backlog/`, `current/`, `complete/`) and populates the backlog with stories derived from the plan, in initial priority order
 
 ### /maud:build Command
 
