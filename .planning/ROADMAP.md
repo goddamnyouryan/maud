@@ -21,6 +21,9 @@ Each phase corresponds 1:1 to a backlog story (or sub-task file) in `.maud/stori
 2. Link style is consistent across files (one chosen convention, applied everywhere)
 3. Broken links found in the existing `.maud/` (e.g., `(/complete/scrap-gsd.md]` in `stories/index.md`) are repaired
 
+**Plans:** 1 plan
+- [ ] 01-01-PLAN.md — Rename `.maud/**/index.md` to `README.md`, rewrite links to standard relative paths, fix typo, cascade prose updates into `.planning/{ROADMAP,REQUIREMENTS,PROJECT}.md`
+
 ---
 
 ## Phase 2: Discuss Maud with GSD
