@@ -1,7 +1,7 @@
 # Maud Planning
 
 ## Research
-- [Similar Tools](/similar/)
+- [Competitors](/competitors/)
 - [Architecture](/architecture/)
 - [Technology](/technology/)
 - [Design](/design/)
