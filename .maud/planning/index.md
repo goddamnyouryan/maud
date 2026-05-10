@@ -1,6 +1,5 @@
-# Maud Planning
-
 ## Research
+
 - [Competitors](/competitors/)
 - [Architecture](/architecture/)
 - [Technology](/technology/)
